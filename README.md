@@ -1,3 +1,5 @@
+![Java Collections Playground](Banner.png)
+
 # JavaCollectionsPlayground
 
 A simple Java program demonstrating the power of the `Collections` class with an `ArrayList<Double>`  including sorting, binary searching, and filling lists with new values.
